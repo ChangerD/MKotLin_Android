@@ -1,4 +1,4 @@
-package com.huace.mkotlin
+package com.jwding.mkotlin
 
 import org.junit.Test
 

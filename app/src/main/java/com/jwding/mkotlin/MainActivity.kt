@@ -1,4 +1,4 @@
-package com.huace.mkotlin
+package com.jwding.mkotlin
 
 import android.os.Bundle
 import com.google.android.material.bottomnavigation.BottomNavigationView

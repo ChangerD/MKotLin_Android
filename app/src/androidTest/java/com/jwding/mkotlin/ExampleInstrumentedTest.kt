@@ -1,4 +1,4 @@
-package com.huace.mkotlin
+package com.jwding.mkotlin
 
 import androidx.test.InstrumentationRegistry
 import androidx.test.runner.AndroidJUnit4
